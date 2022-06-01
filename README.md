@@ -4,9 +4,9 @@
 
 This model and associated code was developed for the article: 
 
-```
-Sun, J.M., Kelly, B.C., Gobas, F.A.P.C., Sunderland, E.M. A food web bioaccumulation model for the accumulation of per- and polyfluoroalkyl substances (PFAS) in fish: how important is renal elimination? Environmental Science Processes & Impacts (2022) DOI: 10.1039/D2EM00047D
-```
+Sun, J.M., Kelly, B.C., Gobas, F.A.P.C., Sunderland, E.M.
+**A food web bioaccumulation model for the accumulation of per- and polyfluoroalkyl substances (PFAS) in fish: how important is renal elimination?** 
+_Environmental Science Processes & Impacts_ (**2022**) DOI: 10.1039/D2EM00047D
 
 Please cite this article if you use this model in your work.
 
