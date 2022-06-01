@@ -1,0 +1,8 @@
+oceanParameter,value,units
+C_OX,10,mg/L
+T,12,C
+OCS,-99,
+delta_OCS,-99,kg/L
+pH,7,
+Phi_exp,1,
+C_SS,-99,

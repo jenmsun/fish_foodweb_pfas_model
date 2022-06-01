@@ -1,0 +1,5 @@
+chemicalParameter,units,PFHxS,PFOS,PFOA,PFNA,PFDA,PFUA
+C_WTO,ng/mL,0.00E+00,0.00E+00,0.00E+00,0,0.00E+00,0.00E+00
+C_s,ng/g (dw),0,0,0,0.00E+00,0,0.00E+00
+C_D,ng/g,510,540,430,NA,390,570
+Phi_exp,,1,1,1,1,1,1
